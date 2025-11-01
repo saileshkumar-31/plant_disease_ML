@@ -1,4 +1,5 @@
 numpy==1.26.4
 streamlit==1.30.0
 tensorflow==2.16.2
-
+gdown
+pillow
